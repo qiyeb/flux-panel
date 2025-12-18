@@ -309,14 +309,14 @@ export default function AdminLayout({
         <div className="px-4 py-2 pb-4 mt-auto flex-shrink-0">
           <div className="text-center">
             <p className="text-xs text-gray-400 dark:text-gray-500">
-              Powered by{' '}
+             By{' '}
               <a 
-                href="https://github.com/bqlpfy/flux-panel" 
+                href="https://"
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-gray-500 dark:text-gray-400 hover:text-gray-600 dark:hover:text-gray-300 transition-colors"
               >
-                flux-panel
+                Private
               </a>
             </p>
           </div>
