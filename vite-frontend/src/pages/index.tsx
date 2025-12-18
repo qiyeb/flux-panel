@@ -307,14 +307,14 @@ export default function IndexPage() {
       
                <div className="fixed inset-x-0 bottom-4 text-center py-4">
                <p className="text-xs text-gray-400 dark:text-gray-500">
-                 Powered by{' '}
+                 By{' '}
                  <a 
-                   href="https://github.com/bqlpfy/flux-panel" 
+                   href="https://www.google.com"
                    target="_blank" 
                    rel="noopener noreferrer"
                    className="text-gray-500 dark:text-gray-400 hover:text-gray-600 dark:hover:text-gray-300 transition-colors"
                  >
-                   flux-panel
+                   Private
                  </a>
                </p>
                <p className="text-xs text-gray-400 dark:text-gray-500 mt-1">
